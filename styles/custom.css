@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* header styles */
+.menu-home{ 
+    height: 10vh;
+    width: 100%;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header{
+    background: #90A688;
+    position: fixed;
+}
+
+.shopping-cart,
+.menu-icon{
+    color: #ffffff;
+}
+
+.logo{
+    height: 97%;
+}
+
+.menu-bottom{
+    background: #90a688a1;
+    position: fixed;
+    bottom: 0vh;
+}
+
+.menu-bottom > i{
+    color: #ffffff;
+}

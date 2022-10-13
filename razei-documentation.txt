@@ -1,0 +1,10 @@
+Ecommerce Razei 
+
+Paleta de colores:
+#90A688 : verde
+#ffffff : blanco
+#000000 : negro
+#E7DAD2 : beige
+#90a688a1 : verde claro (transparente)
+
+seccion: categorias, productos destacados, location, about us, inspo
